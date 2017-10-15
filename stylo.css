@@ -1,0 +1,35 @@
+html{
+    font-family: 'Nosifer', cursive;
+    background-color: white;
+    font-size: 18px;
+}
+p {
+    
+  color: darkorange;
+  text-align: center;
+    line-height: 2;
+  letter-spacing: 1px;
+  
+ 
+}
+
+
+ul,li {
+  
+  text-align: center; color: black;
+    line-height: 2;
+  letter-spacing: 1px;
+   
+}
+h1{
+    color: coral;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+  padding: 20px 0;    
+  text-shadow: 3px 3px 1px black;
+     }
+img[src]{
+    width: 100%
+
+}
